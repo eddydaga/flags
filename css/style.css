@@ -1,0 +1,211 @@
+.flag{
+    text-align: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 450px;
+    display: grid;
+    grid-gap: 20px;
+    grid-template-columns: auto ;
+    padding: 40px;
+    background-color: #fff;
+
+}
+.flags{
+        background-color: #faebd7;
+        padding: 20px;
+        text-align: center;
+}
+.nig-flag{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    width: 150px;
+    background-color: transparent;
+    border: 1px solid #000;
+    width: 170px;
+}
+.left{
+    background-color: #008020;
+    height: 90px;
+}
+.middle{
+    background-color: #fff;
+    height: 90px;
+}
+.right{
+    background-color: green;
+    height: 90px;
+}
+/* .costaRica{
+    padding-top: 20px;
+    display: flex;
+
+} */
+.costa{
+    background-color: transparent;
+    width: 150px;
+    border: 1px solid #000;
+    width: 170px;
+   
+}
+.blue{
+    background-color: #003366;
+    height: 15px;
+}
+.white{
+    background-color: #fff;
+    height:20px;
+}
+.red{
+    background-color: #800000;
+    height: 30px;
+}
+.white{
+    background-color: #fff;
+    height:20px;
+}
+/* .denmark{
+    padding-top: 20px; 
+
+}*/
+.den{
+    display: grid;
+    grid-template-columns: 50px auto;
+    grid-gap: 20px;
+    height: 100px;
+    width: 200px;
+    border: 1px solid #000;
+    width: 170px;
+}
+.den-red{
+    background-color: #800000;
+}
+/* .finland{
+    padding-top: 20px;
+} */
+.fin{
+    display: grid;
+    grid-template-columns: 50px auto;
+    grid-gap: 20px;
+    height: 100px;
+    width: 200px;
+    background-color: #003366;
+    border: 1px solid #000;
+    width: 170px;
+}
+.land{
+    background-color: #fff;
+}
+/* .chile{
+    padding-top: 20px;
+} */
+ .chlile{
+    display: grid;
+    grid-template-columns:70px 100px;
+    grid-template-rows: auto;
+    height: 90px;
+    border: 1px solid #000;
+    width: 170px;
+} 
+.chi-left{
+    background-color: rgb(38, 0, 255);
+}
+.fa{
+    color: #fff;
+    position: relative;
+    top: 20px;
+    left: 20px;
+}
+.chi-right{
+    background-color: #fff;
+}
+.chi-bottom{
+    background-color: rgb(255, 38, 0);
+    width: 170px;
+}
+/* .jordan{
+    padding-top: 20px;
+} */
+.jordan-flag{
+    display: grid;
+    grid-template-rows: 50px 50px;
+    grid-gap: 30px;
+}
+.triangle{
+    width: 0;
+    height: 0;
+    border-top: 70px solid transparent;
+    border-left: 150px solid #800000;
+    border-bottom: 60px solid transparent;
+    position: relative;
+    top: 80px;
+
+}
+span{
+    position: relative;
+    right: 100px;
+    font-size: 30px;
+    bottom:20px;
+    color: #fff;
+
+} 
+.jordan-top{
+    background-color: #000;
+    width: 200px;
+}
+.jordan-bottom{
+    background-color:  #008020;
+    width: 200px;
+    height: 50px;
+}
+/* .jaimica{
+    padding-top: 20px;
+    height: 70px;
+} */
+.jamica{
+    position: relative;
+    background-color: #fedb00;
+    width: 220px;
+    height: 110px;
+    /* margin: 0 auto; */
+}
+.centerpoints{
+    border-color: #00b140 transparent;
+    border-style: solid;
+    border-width: 45px 97px;
+    height: 20px;
+    left: 13px;
+    position: absolute;
+    top: 0;
+    width: 0;
+}
+.sidepoint{
+    border-color: transparent #000;
+    border-style: solid;
+    border-width: 43px 97px;
+    height: 0;
+    left: 0;
+    position: absolute;
+    top: 13px;
+    width: 26px;
+}
+
+/* .triangle-top{
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid green;
+    position: absolute;
+    top: 40px;
+    left: 50px;
+   
+} */
+/* .triangle-down{
+    width: 0;
+    height: 0;
+    border-left: 25px solid transparent;
+    border-right: 25px solid transparent;
+    border-bottom: 50px solid green;
+} */
+ 
+
